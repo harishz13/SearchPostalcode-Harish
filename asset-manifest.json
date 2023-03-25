@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SearchPostalcode-Harish/static/css/main.bfa340fe.css",
+    "main.js": "/SearchPostalcode-Harish/static/js/main.331777db.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SearchPostalcode-Harish/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SearchPostalcode-Harish/index.html",
+    "main.bfa340fe.css.map": "/SearchPostalcode-Harish/static/css/main.bfa340fe.css.map",
+    "main.331777db.js.map": "/SearchPostalcode-Harish/static/js/main.331777db.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SearchPostalcode-Harish/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa340fe.css",
+    "static/js/main.331777db.js"
+  ]
+}
