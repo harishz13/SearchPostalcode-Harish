@@ -1,0 +1,36 @@
+.pinc{
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.btn1{
+  margin-top: 16px;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+  padding: 8px;
+  width: 10%;
+}
+input{
+  width: 79%;
+  padding: 9px;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+.users{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.users div{
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  color: black;
+  margin-left: 28px;
+  list-style-type: none;
+  border: 2px solid black;
+}
